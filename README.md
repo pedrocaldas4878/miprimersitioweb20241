@@ -1,2 +1,2 @@
 # miprimersitioweb20241
-pagina de prueba curso
+Aprendiendo hacer una página web
